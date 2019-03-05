@@ -1,0 +1,182 @@
+.MTrimmedWindow {
+	background-color: bg-color;
+}
+
+.MPartStack {
+	swt-tab-renderer: null;
+	swt-simple: true;
+	swt-mru-visible: true;
+	swt-unselected-tabs-color: bg-color bg-color bg-color 100% 100%;
+	swt-selected-tabs-background: bg-color;
+	swt-outer-keyline-color: bg-color;
+	swt-inner-keyline-color: bg-color;
+	swt-shadow-visible: false;
+	swt-tab-outline: bg-color;
+}
+
+.MPlaceholder {
+	background-color: bg-color;
+	color: #FFF;
+}
+
+.MTrimBar {
+	background-color: bg-color;
+}
+
+.MTrimBar CLabel {
+	color: bg-color;
+}
+
+.MToolControl CLabel {
+	color: bg-color;
+}
+
+.MToolControl Label {
+	color: bg-color;
+}
+
+.MToolControl Canvas {
+	color: bg-color;
+}
+
+.MPart Composite {
+	background-color: bg-color;
+}
+
+.MPart Label {
+	background-color: bg-color;
+}
+
+.MPart Text {
+	background-color: bg-color;
+}
+
+.MPart Link {
+	background-color: bg-color;
+}
+
+.MPart StyledText {
+	background-color: bg-color;
+}
+
+.MPart Section {
+	background-color: bg-color;
+}
+
+.MPart Composite {
+	background-color: bg-color;
+}
+
+.MPart LayoutComposite {
+	background-color: bg-color;
+}
+
+.MPart Table {
+	background-color: bg-color;
+}
+
+.MPart Button {
+	background-color: bg-color;
+}
+
+.MPart ProgressInfoItem {
+	background-color: bg-color;
+}
+
+.MPart Form {
+	background-color: bg-color;
+}
+
+.MPart FormHeading {
+	background-color: bg-color;
+}
+
+.MPart FormText {
+	background-color: bg-color;
+}
+
+.MPart FormText:a {
+	background-color: bg-color;
+}
+
+.MTrimBar#org-eclipse-ui-main-toolbar {
+	background-color: bg-color bg-color 100%;
+}
+Composite#org-eclipse-ui-main-toolbar {
+	background-color: bg-color;
+}
+
+#PerspectiveSwitcher {
+	background-color: bg-color bg-color 100%;
+	eclipse-perspective-keyline-color: bg-color;
+}
+
+
+#org-eclipse-jdt-ui-PackageExplorer {
+	background-color: bg-color;
+}
+
+
+CTabFolder Tree {
+	background-color: bg-color;
+}
+
+CTabFolder Canvas {
+	background-color: bg-color;
+}
+
+CTabItem {
+	background-color: bg-color;
+}
+Tree {
+background-color: bg-color;
+
+}
+StyledText {
+background-color: bg-color;
+  }
+Composite {
+ background-color: bg-color;
+}
+ MTrimBar{
+ background-color: bg-color;
+}
+CompositeElement{
+ background-color: bg-color;
+}
+#org-eclipse-ui-trim-status{
+background-color: bg-color;
+}
+#org-eclipse-ui-main-toolbar{
+background-color: bg-color;
+}
+Composite#org-eclipse-ui-main-toolbar {
+  background-color: bg-color;
+}
+IDEWindow{
+background-color: bg-color;
+}
+MTrimmedWindow{
+background-color: bg-color;
+}
+ImageBasedFrame{
+background-color: bg-color;
+}
+LayoutModifierToolControl-1{
+background-color: bg-color;
+}
+Composite#PerspectiveSwitcher {
+  background-color: bg-color;	
+}
+MToolControl{
+background-color: bg-color;	
+}
+  Draggable{
+background-color: bg-color;	
+}
+  HIDEABLE{
+background-color: bg-color;	
+}
+  SHOW_RESTORE_MENU{
+background-color: bg-color;	
+}
